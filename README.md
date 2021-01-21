@@ -1,3 +1,3 @@
-# Study_Machine_Learning
+# :fire: Study_Machine_Learning
 
-## :smile: 이곳은  [파이썬 머신러닝 완벽 가이드 _ 권철민 저] 도서를 기반으로 하고 있으며, 본인이 직접 요약, 정리한 내용들입니다.
+### :smile: 이곳은 머신러닝 교재를 바탕으로 본인이 공부한 후 직접 요약, 정리한 내용들입니다.
